@@ -25,9 +25,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Screenshots/Screenshot1%20Final.png)
-![](./Screenshots/Screenshot2.png)
-![](./Screenshots/Screenshot3.png)
+![](/Screenshots/Screenshot1%20Final.png)
+![](/Screenshots/Screenshot2.png)
+![](/Screenshots/Screenshot3.png)
 
 ## My process
 
